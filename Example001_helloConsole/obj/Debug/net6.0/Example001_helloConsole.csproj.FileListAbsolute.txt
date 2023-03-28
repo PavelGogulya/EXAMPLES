@@ -1,0 +1,15 @@
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.exe
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.deps.json
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.runtimeconfig.json
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.pdb
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.csproj.AssemblyReference.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.AssemblyInfoInputs.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.AssemblyInfo.cs
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.csproj.CoreCompileInputs.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\refint\Example001_helloConsole.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.pdb
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.genruntimeconfig.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example001_helloConsole\obj\Debug\net6.0\ref\Example001_helloConsole.dll
