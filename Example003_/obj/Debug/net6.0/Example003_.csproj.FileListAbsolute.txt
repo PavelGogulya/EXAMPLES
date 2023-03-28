@@ -1,0 +1,15 @@
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\bin\Debug\net6.0\Example003_.exe
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\bin\Debug\net6.0\Example003_.deps.json
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\bin\Debug\net6.0\Example003_.runtimeconfig.json
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\bin\Debug\net6.0\Example003_.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\bin\Debug\net6.0\Example003_.pdb
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\Example003_.csproj.AssemblyReference.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\Example003_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\Example003_.AssemblyInfoInputs.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\Example003_.AssemblyInfo.cs
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\Example003_.csproj.CoreCompileInputs.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\Example003_.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\refint\Example003_.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\Example003_.pdb
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\Example003_.genruntimeconfig.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example003_\obj\Debug\net6.0\ref\Example003_.dll
