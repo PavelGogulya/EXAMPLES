@@ -1,0 +1,15 @@
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\bin\Debug\net6.0\Example005_про Машу.exe
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\bin\Debug\net6.0\Example005_про Машу.deps.json
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\bin\Debug\net6.0\Example005_про Машу.runtimeconfig.json
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\bin\Debug\net6.0\Example005_про Машу.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\bin\Debug\net6.0\Example005_про Машу.pdb
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\Example005_про Машу.csproj.AssemblyReference.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\Example005_про Машу.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\Example005_про Машу.AssemblyInfoInputs.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\Example005_про Машу.AssemblyInfo.cs
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\Example005_про Машу.csproj.CoreCompileInputs.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\Example005_про Машу.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\refint\Example005_про Машу.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\Example005_про Машу.pdb
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\Example005_про Машу.genruntimeconfig.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example005_про Машу\obj\Debug\net6.0\ref\Example005_про Машу.dll
