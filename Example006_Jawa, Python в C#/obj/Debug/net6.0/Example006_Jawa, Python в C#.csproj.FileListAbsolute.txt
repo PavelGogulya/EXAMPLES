@@ -1,0 +1,15 @@
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\bin\Debug\net6.0\Example006_Jawa, Python в C#.exe
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\bin\Debug\net6.0\Example006_Jawa, Python в C#.deps.json
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\bin\Debug\net6.0\Example006_Jawa, Python в C#.runtimeconfig.json
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\bin\Debug\net6.0\Example006_Jawa, Python в C#.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\bin\Debug\net6.0\Example006_Jawa, Python в C#.pdb
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\Example006_Jawa, Python в C#.csproj.AssemblyReference.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\Example006_Jawa, Python в C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\Example006_Jawa, Python в C#.AssemblyInfoInputs.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\Example006_Jawa, Python в C#.AssemblyInfo.cs
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\Example006_Jawa, Python в C#.csproj.CoreCompileInputs.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\Example006_Jawa, Python в C#.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\refint\Example006_Jawa, Python в C#.dll
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\Example006_Jawa, Python в C#.pdb
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\Example006_Jawa, Python в C#.genruntimeconfig.cache
+D:\Павел Гогуля 2023\Знакомство с языками програмирования\ЗЯП лекция 1 С#\Examples\EXAMPLES\Example006_Jawa, Python в C#\obj\Debug\net6.0\ref\Example006_Jawa, Python в C#.dll
